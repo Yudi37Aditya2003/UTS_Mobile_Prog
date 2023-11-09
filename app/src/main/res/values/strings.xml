@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Rekomendasi Motor Trail</string>
+    <string name="players_name">Nama Motor</string>
+    <string name="description">Deskripsi</string>
+
+
+    <string name="about">About</string>
+    <string name="me">Nama Saya</string>
+    <string name="akun">Email</string>
+
+
+
+    <string-array name="data_nama">
+        <item>Yudi Aditya Pratama</item>
+    </string-array>
+    <string-array name="data_akun">
+        <item>yudiaditya@std.unissula.ac.id</item>
+    </string-array>
+    <integer-array name="data_foto">
+        <item>@drawable/yudi</item>
+    </integer-array>
+
+    <string-array name="data_name">
+        <item>KTM 450cc</item>
+        <item>Yamaha YZ 125x</item>
+        <item>KX 450X</item>
+        <item>Husqvarna FE501</item>
+        <item>CRF 250</item>
+        <item>Suzuki DR200S</item>
+        <item>Diablo 200x</item>
+        <item>Viar Cross X 250ES</item>
+        <item>Sherco 300 SE</item>
+        <item>Gazgas GE250</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Name:KTM 450 EXC\n\n\n
+            KTM yang merupakan suksesor tersohor asal Austria kini menghadirkan kembali vadian motor enduronya yang ia sebut dengan KTM 450 EXC Standard. KTM 450 EXC Standard ini diciptakan dengan menggabungkan dua unsur penting yang disempurnakan yaitu pada sisi mesin dan desain sehinga menghasilkan sebuah mahakarya yang benar-benar sempurna.Untuk motornya yang satu ini sang vendor ingin menunjukan kesan brutalnya dengan sentuhan desain lebih jantan di setiap detailnya.
+            Di bagian bodynya, motor yang sudah dilengkapu dengan sebuah headlamp atau lampu utama ini menggunakan rangka berkualitas jenis Chrome Molybdenum Steel Central Tube berbahan Aluminium yang membuat motor ini nampak begitu kuat dan kokoh tetapi tetap ringan untuk di ajak lari. Sementara itu untuk ban-nya sendiri menggunakan jenis full off road yang masing-masing memiliki ukuran 90 / 90 R21 dibagian depandan 140 / 80 R18 dibagian belakangnya yang begitu kawin dengan jarak tinggi motor ketanah 345 mm sehingga siap untuk melibas semua rintangan yang ada di bawahnya.</item>
+
+        <item>Name:Yamaha YZ 125x\n\n\n
+            Secara keseluruhan, desain Yamaha YZ125X terlihat lebih gahar untuk menunjukkan identitasnya sebagai sepeda motor trail yang tangguh. Pada pembaharuan terakhirnya, Jok terbarunya dibuat lebih datar dan tangki bensin lebih kecil, memberikan pengalaman berkendara yang lebih baik dengan kemampuan mengubah posisi tubuh yang lincah dan meningkatkan kendali motor.Yamaha YZ125X mewakili nilai dan semangat sepeda motor trail dengan gaya yang agresif, dilengkapi dengan pelindung pada spakbor depan dan rem belakang.
+            Dilengkapi dengan handlebar alumunium, jenis footstep YZ-F series, dan posisi kursi ergonomis yang membantu mempermudah menghadapi berbagai medan.Sepeda motor ini juga memiliki rangka yang sangat ringan, dirancang dengan presisi dan diproses secara profesional. Kombinasi aluminium yang dicetak dan dibentuk dengan tepat menciptakan keseimbangan antara kekuatan dan kecepatan, siap digunakan di berbagai medan.</item>
+
+        <item>Name:KX 450F\n\n\n
+            Mesin KX450 selalu menjadi kekuatan, namun para insinyur Kawasaki menemukan cara untuk membuatnya lebih kuat lagi. Menawarkan karakteristik torsi low-end yang lebih halus dan over-run yang lebih kuat, mesin baru yang lebih bertenaga ini didukung oleh sejumlah fitur seperti start elektrik dan kopling hidrolik.
+            Melengkapi performa straight-line dan penanganan yang gesit, rangka yang didesain ulang dengan keseimbangan kekakuan yang dioptimalkan memungkinkan peningkatan performa menikung yang tetap konsisten di berbagai kondisi, sementara massa yang lebih terpusat juga berkontribusi pada peningkatan performa penanganan. Komponen rem Brembo premium dan grip ODI Lock-On menambah performa dan pengenalan merek.</item>
+
+        <item>Name:Husqvarna FE501\n\n\n
+            Husqvarna FE 501 terbaru adalah motor enduro yang tertinggi di kelasnya. Kelebihan pertamanya adalah menggunakan mesin berkapasitas 510,4 cc yang beratnya hanya 29,4 kg saja. Mesin terkuat di jajaran mesin lansiran Husqvarna ini menghasilkan performa terbaik dalam semua kondisi.
+            Mesin tersebut didesain ringkas dengan kepala silinder lebih rendah 15 mm dan juga lebih ringan 500 gram. Rancangan ini juga mendekatkan camshaft ke pusat gravitasi untuk meningkatkan pengendalian, sementara waktu buka tutup katup dibuat lebih pendek untuk meningkatnkan performa di putaran bawah sekaligus responsivitasnya.Penyempurnaan juga merambah pada pengaturan silinder dan piston FE 501. Hasilnya rasio kompresinya meningkat dari 11,7:1 menjadi 12,75: 1. Ini didukung dengan aplikasi silinder aluminium yang ringan dengan ukuran bore 95 mm dan piston tipe Konig.
+            Kombinasi itu mengurangi vibrasi dan meningkatkan kenyamanan bagi pengendara.Motor ini juga menggunakan map switch control dan traction control yang didesain mudah untuk digunakan. Penggunaan TC bertujuan memberikan kontrol terbaik saat melintasi medan yang licin. Selain itu, digunakan pula throttle body berukuran 42 mm lansiran Keihin guna memberikan respon katup yang cepat.</item>
+
+        <item>Name:CRF 250\n\n\n
+            Desain CRF250 Rally merujuk pada model HRC CRF450 Rally yang malang melintang di balap Dakar Rally. Oleh sebab itu, CRF250 Rally juga mengaplikasi part-part yang sama seperti floating screen, fairing upper/lower, shroud samping, termasuk handguards. Selain itu, ada juga under cover pelindung mesin dari benturan dan model tuas persneling yang dapat dilipat. Untuk Ketinggian jok CRF 250 Rally, sekitar 895 mm atau 20 mm lebih tinggi dari CRF250L.Hal menarik lainnya dari CRF250 Rally, model lampu depannya asimetris dengan teknologi LED.
+            Selain itu, ada juga lampu belakang, LED indikator, dan dudukan plat nomor yang dapat dilepas. Sedang untuk panel meter digitalnya menampilkan speedometer, tachometer,  fuel gauge, dan jam. Dari fitur-fiturnya, kendaraan ini memang diseting untuk bisa digunakan di jalan raya. CRF250 Rally bisa menampung bahan bakar sebanyak 10,1 liter (termasuk 1,6 liter bahan bakar cadangan). Dan diklaim mampu menempuh jarak Iebih dari 320km dengan rata-rata konsumsi bahan bakar 33,4 km/Iiter. CRF250 Rally bisa menampung bahan bakar sebanyak 10,1 liter (termasuk 1,6 liter bahan bakar cadangan). Dan diklaim mampu menempuh jarak Iebih dari 320km dengan rata-rata konsumsi bahan bakar 33,4 km/Iiter.</item>
+
+        <item>Name:Suzuki DR200S\n\n\n
+            Suzuki DR200S memakai mesin 4tak satu silinder 198,5 cc 2klep OHC berpendingin udara.Dengan bore x stroke=66 x 58,2 mm, mesin itu mengeluarkan tenaga 20 dk di 8.500 rpm dan torsi 18,6 Nm di 7.000 rpm.Tenaga dan toris itu disalurkan ke girboks 5-percepatan. Untuk sistem transfer bensin ke ruang bakar, masih memakai karburator merek Mikuni.Secara dimensi, motor trail ini punya P x L x T = 2155 x 805 x 1185 mm.
+            Selain itu, tinggi jok 845 mm, jarak wheelbase 1405 mm, dan ground clearance 255 mm. Untuk suspensi, tesemat sok teleskopik 206 mm depan dan monosok belakang yang bisa disetel bagian preloadnya.Sedangkan untuk pengereman, dipakai rem cakram 230 mm di depan dan rem tromol 130 mm belakang. Sesuai jiwanya sebagai motor trail, dipasang pelek 21 inci depan dan 18 inci belakang.Untuk bobot, Suzuki DR200S punya berat kering 113 kg dan berat basahnya 126 kg.Ditambah Suzuki DR200S juga punya tangki bensin 13 liter.Motor trail ini sempat viral akan dijual di Indonesia pada tahun 2019 lalu.</item>
+
+        <item>Name:Diablo 200x\n\n\n
+            Diablo 200x mungkin jarang terdengar. Tapi ini adalah motor trail tangguh buatan lokal. Pusat perakitannya ada di Semarang, Jawa Tengah. Pemasarannya di seluruh Indonesia. Pemengang merek (APM) adalah PT Honiel Motor Indonesia. Meski jarang terdengar dan mungkin hanya terkenal di kalangan pecinta motor adventure, Diablo 200x memiliki spesifikasi yang cukup meyakinkan.Mesinnya silinder tunggal berkapasitas 193 cc. Mampu menghasilkan daya hingga 13 PS disalurkan ke roda belakang oleh transmisi manual. Tingginya mumpuni untuk motor trail dengan 1.210 mm. Body ramping siap untuk melibas medan sempit dan berliku di alam, dengan lebar body 840 mm.Mereka mengklaim motor ini nyaman dikendarai.Untuk mendukung pengendaraan, suspensi depan dibekali dengan garpu up-side down, sedangkan belakang monoshock dengan lengan ayun. Ban pacul berukuran 80/100 di depan dan 110/90 di belakang jadi bawaan standar. Peleknya 21 dan 18, depan-belakang. Untuk menghentikan motor, 200X sudah dibekali rem cakram di depan maupun belakang.Selain itu, untuk versi yang bisa digunakan di jalan raya, Diablo 200X dibekali lampu utama yang masih mengandalkan bohlam biasa. Demikian juga di belakang. Speedometer di depan pengendara hadir dengan tampilan digital sepenuhnya. Desainnya tidak aneh-aneh. Hanya kotak biasa. Menandakan kalau motor ini mengedepankan fungsi ketimbang gaya.</item>
+
+        <item>Name:Viar Cross X 250ES\n\n\n
+            Harga Viar Cross X 250 ES 2023 di Indonesia dimulai dari Rp 42,73 Juta. Terdapat dalam 1 varian di Indonesia. Cross X 250 ES digerakkan oleh mesin 249.6 cc dengan transmisi 6-Kecepatan. Rem depan menggunakan Disc, sedangkan di belakang Disc. Lebih dari 1 pengguna telah memberikan penilaian untuk Cross X 250 ES berdasarkan fitur, jarak tempuh, kenyamanan tempat duduk dan kinerja mesin. Pesaing terdekat Viar Cross X 250 ES adalah Stockman, Cross X 250 EC, KLX 150 dan KX 65. Cross X 250 ES ditenagai oleh 249.6 cc 1 Cylinder Mesin yang menghasilkan Tenaga 25.47 hp pada 9000 rpm dan Torsi 23 Nm pada 7000 rpm.
+            Ukuran ban depan adalah front tyre size sedangkan belakang 100/100 R18. Fitur pendukung sasis, suspensi  rem meliputi Monoshock Unitrak Suspensi Belakang, USD Fork Suspensi Depan, Disc Rem Depan, Disc Rem Belakang, Tidak Garnish Krom, Single Seat Tipe Jok, Side Wings, Baja material rangka dan Tidak Electronic Suspension Adjustment.Fitur di konsol meliputi Digital Panel Instrumen, Analog Speedometer, Tidak Indikator Standar Samping, Tidak Indikator Penggantian Oli, Analog Tachometer, Tidak Tripmeter, Tidak Navigator dan Tidak Layar Display.</item>
+
+        <item>Name:Sherco 300 SE\n\n\n
+            Performa mesin 2-tak yang agresif, masih disukai penggemar motor trail, terutama di benua Eropa.Makanya pabrikan seperti Sherco, terus mengembangkan motor trail dengan mesin 2-tak, salah satunya adalah 300 SE.Beruntung buat peminatnya, sekarang 300 SE sudah tersedia di Indonesia, yang distribusinya dipegang oleh XClub.XClub dikenal sebagai distributor riding gear untuk motorcross, adventure dan MTB, dengan merek seperti Fox, Shift dan TLD. 300 SE sendiri pernah datang ke unit redaksi, namun masih versi 2018, dengan model SE-R.Kalau yang ini merupakan model Factory, dengan spek paling tinggi dibanding 300 SE lainnya,buka Ario Sadewo dari XClub.
+            Model Factory, punya beragam upgrade terutama di area kaki-kaki, karena model ini dipakai di tim balap Sherco.Mulai dari suspensi KYB closed-cartridge, berbeda dengan model 2018 yang memakai WP XPLOR.</item>
+
+        <item>Name:Gazgas GE250\n\n\n
+            Gazgas, brand motor asal Pasuruan, Jawa Timur yang sedang berkembang. Berbagai lini produk ditawarkan, mulai dari tipe penggaruk tanah, pemilik bentuk mini sampai pengguna gaya klasik. Khusus tipe motor trail, salah satu model yang dipunyainya Gazgas GE 250.Tipe GE250 memiliki desain ramping khas motor trail. Sepatbor depannya tinggi dan lebar untuk mencegah lumpur berhamburan ke wajah penunggangnya, saat berkendara di jalan non aspal. Tinggi ground clearance mencapai 350 mm, sehingga nyaman diajak melewati berbagai kondisi jalan. Selayaknya motor trail, kuda besi ini juga dibekali ban tipe off road berukuran 80/100-21 untuk depan dan 100/90-18 di belakang.
+            Rangka Gazgas GE250 begitu istimewa lantaran terbuat dari aluminium yang ringan namun kokoh. Penggunaan rangka aluminium menjadikan bobotnya hanya 117,5 liter. Kemudian suspensi tidak kalah mantap, memakai jenis upside down keluaran Fastace. Khusus mesin, memakai kapasitas 249 cc SOHC berkonfigurasi satu silinder dengan pendingin udara. Jantung mekanis ini memiliki kemampuan yang cukup hebat di kelasnya. Sanggup mengeluarkan torsi puncak 22 Nm pada 7.000 rpm dan tenaga maksimal 25,15 PS pada 9.000 rpm. Hanya saja untuk sistem penyemprotan bahan bakar ke mesin, masih pakai karburator. Transmisi memakai 6-percepatan manual.</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/ktm</item>
+        <item>@drawable/yamahayz</item>
+        <item>@drawable/kx</item>
+        <item>@drawable/husqvarnafe501</item>
+        <item>@drawable/crf</item>
+        <item>@drawable/suzukidr200s</item>
+        <item>@drawable/diablo200x</item>
+        <item>@drawable/viarcrossx250es</item>
+        <item>@drawable/sherco300se</item>
+        <item>@drawable/gazgasge250</item>
+    </integer-array>
+</resources> 
